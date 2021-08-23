@@ -1,0 +1,45 @@
+5.182.39.88:9999::Austria::Vienna::Vienna
+8.210.163.246:50037::Germany::None::None
+20.52.130.140:16379::Canada::Quebec::Montreal
+20.78.252.183:1080::Japan::Tokyo::Tokyo
+31.25.243.40:9201::Germany::None::None
+31.25.243.40:9274::Germany::None::None
+31.25.243.40:9283::Germany::None::None
+31.25.243.40:9324::Hong Kong::None::None
+31.25.243.40:9455::Germany::None::None
+43.231.160.77:10808::China::None::None
+45.79.193.124:7158::United States::New York::New York
+51.81.31.63:45720::United States::Wisconsin::Eleva
+51.178.85.231:9050::Ukraine::Kyiv City::Kyiv
+58.32.17.196:1080::Japan::Tokyo::Shinagawa
+61.164.153.34:1080::United States::California::San Jose
+66.33.210.242:6285::United States::None::None
+66.33.211.214:6285::United States::None::None
+66.33.211.216:6285::United States::None::None
+91.198.137.31:3583::Moldova::Chișinău Municipality::Chisinau
+95.216.123.39:9051::United States::None::None
+103.56.60.248:10808::Hong Kong::Central and Western District::Central
+103.73.74.179:1080::Indonesia::West Java::Karawang
+103.73.74.180:1080::Indonesia::West Java::Karawang
+104.248.48.176:30588::United States::None::None
+104.248.48.239:30588::United States::None::None
+104.248.63.15:30588::United States::None::None
+104.255.170.63:52914::United States::Oregon::Bend
+104.255.170.64:58163::United States::Oregon::Bend
+104.255.170.91:51160::United States::Oregon::Bend
+108.61.218.205:29240::United States::Nevada::Las Vegas
+119.28.45.47:9150::Germany::None::None
+132.148.12.126:38844::United States::None::None
+162.144.64.112:10555::United States::None::None
+162.144.64.112:24030::United States::None::None
+163.172.7.233:9050::Germany::Bavaria::Nuremberg
+176.114.203.96:9050::United States::None::None
+181.3.79.130:1080::Argentina::None::None
+182.253.0.44:1080::Indonesia::Jakarta::Jakarta
+188.68.52.220:9050::Germany::None::None
+193.176.240.115:440::France::None::None
+202.107.233.123:3010::China::Hunan::Furong
+207.148.74.163:32389::Seychelles::None::None
+210.16.73.80:1080::Philippines::Calabarzon::Paranaque City
+210.16.73.83:1080::Philippines::Calabarzon::Paranaque City
+222.186.10.227:1080::Hong Kong::Central and Western District::Central

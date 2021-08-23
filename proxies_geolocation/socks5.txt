@@ -1,0 +1,117 @@
+5.56.134.237:45698::Iran::Tehran::Tehran
+5.182.39.88:9999::Austria::Vienna::Vienna
+8.135.28.152:1080::China::Guangdong::Shenzhen
+8.210.163.246:50037::Germany::None::None
+20.52.130.140:16379::Canada::Quebec::Montreal
+20.78.252.183:1080::Japan::Tokyo::Tokyo
+27.116.51.92:6667::India::Gujarat::Gandhinagar
+27.116.51.178:6667::India::Gujarat::Gandhinagar
+31.25.243.40:9201::Germany::None::None
+31.25.243.40:9274::Germany::None::None
+31.25.243.40:9283::Germany::None::None
+31.25.243.40:9324::Hong Kong::None::None
+31.25.243.40:9455::Germany::None::None
+31.128.248.1:1080::Ukraine::Cherkasy Oblast::Cherkasy
+34.92.14.117:1080::Hong Kong::Central and Western District::Central
+34.125.221.26:1080::United States::Nevada::Las Vegas
+36.89.86.49:56845::Indonesia::Jakarta::Sunter Agung
+43.128.13.103:28010::Hong Kong::Central and Western District::Central
+43.224.8.12:6667::India::Gujarat::Surendranagar
+43.224.10.31:6667::India::Gujarat::Khambhat
+43.224.10.46:6667::India::Gujarat::Khambhat
+43.231.160.77:10808::China::None::None
+45.9.148.138:1080::Netherlands::North Holland::Amsterdam
+45.79.193.124:7158::United States::New York::New York
+47.106.171.145:6111::China::Guangdong::Shenzhen
+47.119.144.197:6111::China::Guangdong::Shenzhen
+47.119.154.163:6111::China::Guangdong::Shenzhen
+47.243.44.22:80::Hong Kong::Central and Western District::Central
+51.81.31.63:45720::United States::Wisconsin::Eleva
+51.158.178.18:1080::France::Île-de-France::Paris
+51.178.85.231:9050::Ukraine::Kyiv City::Kyiv
+51.195.1.108:34454::France::None::None
+51.195.1.109:34454::France::None::None
+51.195.26.98:34454::France::None::None
+54.238.7.243:8080::Japan::Tokyo::Tokyo
+58.32.17.196:1080::Japan::Tokyo::Shinagawa
+61.164.153.34:1080::United States::California::San Jose
+61.171.9.200:2829::China::Beijing::Beijing
+66.33.210.242:6285::United States::None::None
+66.33.211.214:6285::United States::None::None
+66.33.211.216:6285::United States::None::None
+82.64.183.22:8080::France::None::None
+87.103.135.88:1080::Russia::Irkutsk Oblast::Irkutsk
+91.194.3.213:64312::Russia::None::None
+91.198.137.31:3583::Moldova::Chișinău Municipality::Chisinau
+93.179.94.133:5678::Russia::None::None
+95.216.123.39:9051::United States::None::None
+97.74.230.87:26236::United States::None::None
+97.74.230.87:31365::United States::None::None
+97.74.230.87:45668::United States::None::None
+97.74.230.87:47150::United States::None::None
+103.21.163.70:6667::India::Gujarat::Surendranagar
+103.56.60.248:10808::Hong Kong::Central and Western District::Central
+103.73.74.179:1080::Indonesia::West Java::Karawang
+103.73.74.180:1080::Indonesia::West Java::Karawang
+103.139.163.168:1080::Indonesia::South Sumatra::Palembang
+103.216.82.19:6667::India::Rajasthan::Udaipur
+103.216.82.153:6667::India::Rajasthan::Udaipur
+103.240.161.101:6667::India::Gujarat::Patan
+103.240.168.138:6667::India::Gujarat::Ahmedabad
+103.241.227.100:6667::India::Gujarat::Dohad
+103.250.166.12:6667::India::Gujarat::Gandhidham
+103.251.214.167:6667::India::Gujarat::Ahmedabad
+103.251.225.16:6667::India::Gujarat::Bharuch
+104.248.48.176:30588::United States::None::None
+104.248.48.239:30588::United States::None::None
+104.248.63.15:30588::United States::None::None
+104.255.170.63:52914::United States::Oregon::Bend
+104.255.170.64:58163::United States::Oregon::Bend
+104.255.170.91:51160::United States::Oregon::Bend
+108.61.218.205:29240::United States::Nevada::Las Vegas
+109.224.6.142:1080::Iraq::None::None
+109.237.214.239:1080::Netherlands::Flevoland::Almere Stad
+117.102.84.142:443::Indonesia::Jakarta::Jakarta
+119.28.45.47:9150::Germany::None::None
+120.79.192.116:1080::China::Guangdong::Shenzhen
+120.196.237.162:1080::China::None::None
+120.196.249.45:1081::China::None::None
+120.237.253.142:1080::China::None::None
+125.212.249.147:1080::Vietnam::None::None
+132.148.12.126:38844::United States::None::None
+132.148.159.119:7529::United States::None::None
+139.198.179.174:3128::China::Shanghai::Shanghai
+144.76.42.181:64312::Germany::None::None
+150.129.54.111:6667::India::Gujarat::Bhuj
+151.106.34.139:1080::France::Hauts-de-France::Roubaix
+162.144.64.112:10555::United States::None::None
+162.144.64.112:24030::United States::None::None
+163.172.7.233:9050::Germany::Bavaria::Nuremberg
+166.62.38.100:45310::United States::None::None
+167.86.92.43:8085::Germany::Bavaria::Nuremberg
+167.172.141.70:4517::United States::New Jersey::North Bergen
+167.172.141.70:14738::United States::New Jersey::North Bergen
+172.104.145.22:9064::Germany::Hesse::Frankfurt am Main
+174.138.174.210:80::United States::Arizona::Phoenix
+176.114.45.163:5678::Ukraine::Crimea::Feodosiya
+176.114.203.96:9050::United States::None::None
+181.3.79.130:1080::Argentina::None::None
+182.253.0.44:1080::Indonesia::Jakarta::Jakarta
+183.23.74.41:28388::China::Guangdong::Shenzhen
+185.107.82.164:3128::Netherlands::None::None
+185.107.82.172:3128::Netherlands::None::None
+185.132.2.134:8080::Ukraine::Odessa::Odessa
+186.47.81.50:9999::Ecuador::Provincia del Guayas::Guayaquil
+188.68.52.220:9050::Germany::None::None
+188.166.104.152:50725::Netherlands::North Holland::Amsterdam
+192.169.249.15:2364::United States::None::None
+193.176.240.115:440::France::None::None
+195.90.211.242:1080::Germany::None::None
+195.138.193.154:83::Ukraine::None::None
+202.107.233.123:3010::China::Hunan::Furong
+206.189.92.74:7777::Singapore::None::Singapore
+207.148.74.163:32389::Seychelles::None::None
+210.16.73.80:1080::Philippines::Calabarzon::Paranaque City
+210.16.73.83:1080::Philippines::Calabarzon::Paranaque City
+213.208.178.202:5678::Russia::Moscow::Moscow
+222.186.10.227:1080::Hong Kong::Central and Western District::Central
